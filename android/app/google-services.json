@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "677870383743",
+    "project_id": "chatapp-a96a6",
+    "storage_bucket": "chatapp-a96a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677870383743:android:1feb51eeaa0a2ea940854a",
+        "android_client_info": {
+          "package_name": "com.demosocketio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677870383743-q8le2bdb81sh97jbtojagv4ojpc5i1fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlx5s4yue2IqArwz2MgIFPGdAGi3TmEn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677870383743-q8le2bdb81sh97jbtojagv4ojpc5i1fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
